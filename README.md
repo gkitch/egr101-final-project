@@ -1,1 +1,4 @@
 # egr101-final-project
+Arduino script for our final project, integrating LCD screens, user input, real-time clocks, temperature sensors, and motor driving.
+
+My team worked through the engineering design process from a proposed challenge, in which we prototyped, utilized Pugh screening and scoring matrices, Trello for engineering workflow, and developed an automated garden shade which would unroll to protect plants, or roll up to expose them to sunlight, depending on user-specificed inputs and environmental factors. Our final deliverable consisted of a metal frame and pulley system to control the shade, as well as the electronics—my main contribution—driven by Arduino script, reading in user input, temperature readings, and processing in real time to determine whether we should power motors to roll / unroll the shade. 
